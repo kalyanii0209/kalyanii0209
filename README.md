@@ -12,10 +12,6 @@ Here goes something about me:
 
 ###
 
-<div class="tenor-gif-embed" data-postid="2332171326726785246" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/coding-girl-gif-2332171326726785246">Coding Girl Sticker</a>from <a href="https://tenor.com/search/coding+girl-stickers">Coding Girl Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
   <img width="12" />
